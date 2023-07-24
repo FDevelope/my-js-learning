@@ -8,7 +8,7 @@
 /* js array methods */
 
 
-/* let ogrenciler = ["mehmet", "ahmet", "cevdet","osman"];
+let ogrenciler = ["mehmet", "ahmet", "cevdet","osman"];
 let ogretmenler = ["selami, hayri, kasım"]
 
 sonuc = ogrenciler.join(" ");
@@ -20,7 +20,7 @@ sonuc = ogrenciler.concat(ogretmenler);
 sonuc = ogrenciler.splice(0, 0, "hande");
 sonuc = ogrenciler.flat();
 
-console.log(sonuc); */
+console.log(sonuc);
 
 /* LISTS EXAMPLE */
 //Elma, armut, muz, çilek elemanlarına sahip bir dizi oluşturunuz.

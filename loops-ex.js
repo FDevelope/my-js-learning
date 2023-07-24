@@ -1,19 +1,19 @@
 let sayilar = [1,5,7,16,3,25];
 
 //Sayılar listesindeki her bir elemanın karesini yazdırınız.
-/* for(let i in sayilar){
+for(let i in sayilar){
     console.log(sayilar[i] * sayilar[i])
-} */
+}
 
 //Sayılar listesndeki hangi sayılar 5'in katıdır?
-/* for(let i in sayilar){
+for(let i in sayilar){
     if(sayilar[i] % 5 == 0){
         console.log(sayilar[i])
     }
-} */
+}
 
 //Sayılar listesindeki çift sayıların toplamını bulunuz.
-/* for(let i in sayilar){
+for(let i in sayilar){
     let ciftSayilar = (sayilar[i]%2)
 
     if(ciftSayilar==1){
@@ -21,22 +21,22 @@ let sayilar = [1,5,7,16,3,25];
     }else{
         console.log(`${ciftSayilar} bu bir çift sayidir`)
     }
-} */
+}
 
 
 //Urunler listesindeki tüm ürünleri büyük harf ile yazdırınız.
 let urunler = ["iphone 12", "samsung s22", "iphone 13", "samsung s23"];
 
-/* for(let i in urunler){
+for(let i in urunler){
     let buyuk = urunler[i].toUpperCase();
     console.log(buyuk)
 }
- */
+
 //Urunler listesinde içinde samsung geçen kaç ürün vardır?
-/* for(let i in urunler){
+for(let i in urunler){
     let sIceren = urunler[i].includes("samsung");
     console.log(sIceren);
-} */
+}
 
 
 

@@ -1,16 +1,16 @@
-/* function merhaba(msg){
+function merhaba(msg){
     console.log(msg)
 }
 
-merhaba("Hello World!") */
+merhaba("Hello World!")
 
-/* function yasHesapla(dogumYili){
+function yasHesapla(dogumYili){
     let date = new Date().getFullYear();
     console.log(date-dogumYili);
 }
 
 yasHesapla(1956);
-yasHesapla(1997); */
+yasHesapla(1997);
 
 
 /* ------------------------------------------------------------------------------------------- */

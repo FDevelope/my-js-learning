@@ -1,12 +1,12 @@
 let arr = [3,6,2,7,12,7,4];
 
-/* for(let i in arr){
+for(let i in arr){
     console.log(arr[i])
-}; */
+};
 
-/* for(let i=0; i< arr.length; i++){
+for(let i=0; i< arr.length; i++){
     console.log(arr[i]);
-}; */
+};
 
 let fruitsCalories = {
     apple : 230,
