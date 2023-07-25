@@ -28,3 +28,18 @@
     column-rule-color: #444444 !important;
     cursor: pointer !important;
 }
+
+.buttons-right{
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+}
+
+.btn-info{
+    background-color: #3C87FF !important;
+    border: none !important;
+}
+
+.btn-right{
+    color: white !important;
+}
